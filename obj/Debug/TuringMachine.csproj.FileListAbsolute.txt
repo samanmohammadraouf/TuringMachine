@@ -1,0 +1,6 @@
+D:\c# projects\TuringMachine\bin\Debug\TuringMachine.exe.config
+D:\c# projects\TuringMachine\bin\Debug\TuringMachine.exe
+D:\c# projects\TuringMachine\bin\Debug\TuringMachine.pdb
+D:\c# projects\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+D:\c# projects\TuringMachine\obj\Debug\TuringMachine.exe
+D:\c# projects\TuringMachine\obj\Debug\TuringMachine.pdb
